@@ -23,7 +23,7 @@ I am a Full Stack and Robotic Developer <img src="https://media.giphy.com/media/
 
 ### Github Stats 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-moura97&layout=compact&line_height=20&card_width=400)](https://github.com/anuraghazra/github-readme-stats)![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-moura97&show_icons=true&theme=default&line_height=20&card_width=400)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-moura97&layout=compact&line_height=20&card_width=250)](https://github.com/anuraghazra/github-readme-stats)![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-moura97&show_icons=true&theme=default&line_height=20&card_width=200)
 
 #
 ### Nice Projects 🔥
