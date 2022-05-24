@@ -15,7 +15,7 @@ I am a Full Stack and Robotic Developer <img src="https://media.giphy.com/media/
 ### How to find me 👀
 
 [![email](https://img.shields.io/badge/email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabbyru2@gmail.com)
-[![linkedin](https://img.shields.io/badge/visit%20my%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gabriel-lima-moura-3741b015b/)
+[![linkedin](https://img.shields.io/badge/visit%20my%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ww.linkedin.com/in/m-moura97/)
 [![research_gate](https://img.shields.io/badge/check%20my%20researches-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Marcos-Moura-6)
 [![lattes](https://img.shields.io/badge/lattes%20plataform-2DAAE9?style=for-the-badge&logo=lattes&logoColor=white)](http://lattes.cnpq.br/1975235571252981)
 [![instagram](https://img.shields.io/badge/Follow%20my%20instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/markin_moura97/)
