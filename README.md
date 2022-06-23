@@ -28,6 +28,10 @@ I am a Full Stack and Robotic Developer <img src="https://media.giphy.com/media/
 #
 ### Nice Projects 🔥
 
+#### Scientific Stuffs 🧪
+  [![science1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=eletromagnetism_python&line_height=35&card_width=100)](https://github.com/marcos-moura97/eletromagnetism_python)
+  [![science2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=naca_profile_plot&line_height=50&card_width=100)](https://github.com/marcos-moura97/naca_profile_plot)
+
 #### ROS 🤖
   [![Readme1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=mcqueen_ros&line_height=35&card_width=100)](https://github.com/marcos-moura97/mcqueen_ros)
   [![Readme3 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=video_stream_ros2&line_height=35&card_width=100)](https://github.com/marcos-moura97/video_stream_ros2)
@@ -36,6 +40,3 @@ I am a Full Stack and Robotic Developer <img src="https://media.giphy.com/media/
   [![game1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=jogo_dinossauro__brasil_2020&line_height=35&card_width=100)](https://github.com/marcos-moura97/jogo_dinossauro__brasil_2020)
   [![game2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=jogos&line_height=100&card_width=100)](https://github.com/marcos-moura97/jogos)
   
-#### Scientific Stuffs 🧪
-  [![science1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=eletromagnetism_python&line_height=35&card_width=100)](https://github.com/marcos-moura97/eletromagnetism_python)
-  [![science2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=naca_profile_plot&line_height=50&card_width=100)](https://github.com/marcos-moura97/naca_profile_plot)
