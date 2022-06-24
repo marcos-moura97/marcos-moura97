@@ -30,7 +30,7 @@ I am a Full Stack and Robotic Developer <img src="https://media.giphy.com/media/
 
 #### Scientific Stuffs 🧪
   [![science1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=eletromagnetism_python&line_height=35&card_width=100)](https://github.com/marcos-moura97/eletromagnetism_python)
-  [![science2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=naca_profile_plot&line_height=50&card_width=100)](https://github.com/marcos-moura97/naca_profile_plot)
+  [![science2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=pid-maximum-power-tracking&line_height=50&card_width=100)](https://github.com/marcos-moura97/pid-maximum-power-tracking)
 
 #### ROS 🤖
   [![Readme1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=mcqueen_ros&line_height=35&card_width=100)](https://github.com/marcos-moura97/mcqueen_ros)
