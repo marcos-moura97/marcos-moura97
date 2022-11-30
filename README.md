@@ -34,7 +34,9 @@ I am a Full Stack and Robotic Developer <img src="https://media.giphy.com/media/
 
 #### ROS 🤖
   [![Readme1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=mcqueen_ros&line_height=35&card_width=100)](https://github.com/marcos-moura97/mcqueen_ros)
-  [![Readme3 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=video_stream_ros2&line_height=35&card_width=100)](https://github.com/marcos-moura97/video_stream_ros2)
+  [![Readme2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=video_stream_ros2&line_height=35&card_width=100)](https://github.com/marcos-moura97/video_stream_ros2)  
+  [![Readme3 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=simple-flir-spinnaker-camera&line_height=35&card_width=100)](https://github.com/marcos-moura97/simple-flir-spinnaker-camera)
+  [![Readme4 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=simple-driver-v4l2-camera&line_height=35&card_width=100)](https://github.com/marcos-moura97/simple-driver-v4l2-camera)
   
 #### Games 🎮
   [![game1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=jogo_dinossauro__brasil_2020&line_height=35&card_width=100)](https://github.com/marcos-moura97/jogo_dinossauro__brasil_2020)
