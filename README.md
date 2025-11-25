@@ -23,22 +23,27 @@ I am a Full Stack and Robotic Developer <img src="https://media.giphy.com/media/
 
 ### Github Stats 📈
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-moura97&layout=compact&line_height=20&card_width=250)](https://github.com/anuraghazra/github-readme-stats)![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-moura97&show_icons=true&theme=default&line_height=20&card_width=200)
+<div align="center">
+<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=marcos-moura97&show_icons=true&line_height=21" alt="Marcos' Github Stats" />
+</div>
+<br/><br/><br/><br/><br/><br/><br/>
 
-#
 ### Nice Projects 🔥
 
 #### Scientific Stuffs 🧪
-  [![science1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=eletromagnetism_python&line_height=35&card_width=100)](https://github.com/marcos-moura97/eletromagnetism_python)
-  [![science2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=pid-maximum-power-tracking&line_height=50&card_width=100)](https://github.com/marcos-moura97/pid-maximum-power-tracking)
+
+[![marcos-moura97/pid-maximum-power-tracking - GitHub](https://gh-card.dev/repos/marcos-moura97/pid-maximum-power-tracking.svg)](https://github.com/marcos-moura97/pid-maximum-power-tracking)
+[![marcos-moura97/boat-detection-yolov8 - GitHub](https://gh-card.dev/repos/marcos-moura97/boat-detection-yolov8.svg)](https://github.com/marcos-moura97/boat-detection-yolov8)
+[![marcos-moura97/opticalpyber - GitHub](https://gh-card.dev/repos/marcos-moura97/opticalpyber.svg)](https://github.com/marcos-moura97/opticalpyber)
+[![marcos-moura97/eletromagnetism_python - GitHub](https://gh-card.dev/repos/marcos-moura97/eletromagnetism_python.svg)](https://github.com/marcos-moura97/eletromagnetism_python)
 
 #### ROS 🤖
-  [![Readme1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=mcqueen_ros&line_height=35&card_width=100)](https://github.com/marcos-moura97/mcqueen_ros)
-  [![Readme2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=video_stream_ros2&line_height=35&card_width=100)](https://github.com/marcos-moura97/video_stream_ros2)  
-  [![Readme3 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=simple-flir-spinnaker-camera&line_height=35&card_width=100)](https://github.com/marcos-moura97/simple-flir-spinnaker-camera)
-  [![Readme4 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=simple-driver-v4l2-camera&line_height=35&card_width=100)](https://github.com/marcos-moura97/simple-driver-v4l2-camera)
+  [![marcos-moura97/mcqueen_ros - GitHub](https://gh-card.dev/repos/marcos-moura97/mcqueen_ros.svg)](https://github.com/marcos-moura97/mcqueen_ros)
+  [![marcos-moura97/video_stream_ros2 - GitHub](https://gh-card.dev/repos/marcos-moura97/video_stream_ros2.svg)](https://github.com/marcos-moura97/video_stream_ros2)
+  [![marcos-moura97/simple-flir-spinnaker-camera - GitHub](https://gh-card.dev/repos/marcos-moura97/simple-flir-spinnaker-camera.svg)](https://github.com/marcos-moura97/simple-flir-spinnaker-camera)
+  [![marcos-moura97/simple-driver-v4l2-camera - GitHub](https://gh-card.dev/repos/marcos-moura97/simple-driver-v4l2-camera.svg)](https://github.com/marcos-moura97/simple-driver-v4l2-camera)
   
 #### Games 🎮
-  [![game1 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=jogo_dinossauro__brasil_2020&line_height=35&card_width=100)](https://github.com/marcos-moura97/jogo_dinossauro__brasil_2020)
-  [![game2 Card](https://github-readme-stats.vercel.app/api/pin/?username=marcos-moura97&repo=jogos&line_height=100&card_width=100)](https://github.com/marcos-moura97/jogos)
+  [![marcos-moura97/jogo_dinossauro__brasil_2020 - GitHub](https://gh-card.dev/repos/marcos-moura97/jogo_dinossauro__brasil_2020.svg)](https://github.com/marcos-moura97/jogo_dinossauro__brasil_2020)
+  [![marcos-moura97/jogos - GitHub](https://gh-card.dev/repos/marcos-moura97/jogos.svg)](https://github.com/marcos-moura97/jogos)
   
